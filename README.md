@@ -49,17 +49,6 @@ Total Orders Placed
 
 Total Payment Made
 
-🧠 Key Learnings
-Concept	Description
-Stored Procedure	A pre-written SQL program that performs a series of actions such as insert, update, or delete.
-Function	A SQL routine that performs a calculation and returns a single value.
-IN / OUT Parameters	IN sends data to a procedure, OUT sends data back as output.
-DECLARE / SET	Used to create and assign values to variables inside stored routines.
-SELECT INTO	Stores query results into variables.
-IF...THEN...ELSE	Allows decision-making inside SQL procedures.
-LAST_INSERT_ID()	Fetches the ID of the most recently inserted record.
-LEFT JOIN	Combines rows from two tables and shows all records from the left table.
-GROUP BY	Groups rows to calculate totals or counts for each category.
 ⚙️ Tools Used
 
 MySQL Server 8.x
